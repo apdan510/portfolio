@@ -2,7 +2,6 @@ import React from "react";
 import "./Cards.css";
 import CardItem from "./CardItem";
 import CardItem2 from "./CardItem2";
-import CardItem3 from "./CardItem3";
 import CardItem4 from "./CardItem4";
 
 function Cards() {
