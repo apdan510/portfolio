@@ -23,12 +23,6 @@ function Cards() {
               path="/services"
             />
           </ul>
-          <ul className="cards__items">
-            <CardItem3
-              src="images/20210110_174753.jpg"
-              text="3D Printing"
-              path="/products"
-            />
             <CardItem4
               src="images/20190807_160449.jpg"
               text="Gaming PC"
