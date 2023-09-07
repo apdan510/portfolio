@@ -2,7 +2,7 @@ import React from "react";
 import "../../App.css";
 import Footer from "../Footer";
 
-function Home2() {
+function Main() {
   return (
     <>
       <Footer />
@@ -10,4 +10,4 @@ function Home2() {
   );
 }
 
-export default Home2;
+export default Main;
